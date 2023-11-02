@@ -7,4 +7,4 @@ pandas
 seaborn
 matplotlib
 uvicorn
-scipy
+scipy== 1.10.1
