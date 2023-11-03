@@ -1,4 +1,4 @@
-# Fake News Prediction Unsupervised Machine Learning
+# Clustering-News-Unsupervised-Machine-Learning
 
 This machine learning algorithm groups news articles into clusters based on their respective types.
 
