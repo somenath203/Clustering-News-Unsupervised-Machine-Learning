@@ -1,6 +1,6 @@
 # Clustering-News-Unsupervised-Machine-Learning
 
-This machine learning algorithm groups news articles into clusters based on their respective types.
+This is a machine learning project which groups news articles into clusters based on their respective types.
 
 ### Link to deployed API of the machine learning model: 
 https://fake-news-pred.onrender.com/
