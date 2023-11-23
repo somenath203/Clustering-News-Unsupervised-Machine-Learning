@@ -1,6 +1,6 @@
 # Clustering-News-Unsupervised-Machine-Learning
 
-This is a machine learning project which uses unsupervised machine learning algorithms such as k-means, k-medoids and agglomerative hierarchical clustering to group news articles into clusters based on their respective types.
+This is a machine learning project which uses unsupervised machine learning algorithms such as k-means, k-medoids and agglomerative hierarchical clustering to group news articles into clusters based on their respective characteristics.
 
 ### Link to deployed API of the machine learning model: 
 https://fake-news-pred.onrender.com/
