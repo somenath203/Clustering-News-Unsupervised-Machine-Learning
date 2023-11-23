@@ -10,5 +10,5 @@ https://fake-news-pred.onrender.com/docs
 
 ### About the dataset used in this project
 
-The dataset used in this project is named LIAR. TO know more about the dataset, click here: https://github.com/tfs4/liar_dataset
+The dataset used in this project is named LIAR. To know more about the dataset, click here: https://github.com/tfs4/liar_dataset
 
